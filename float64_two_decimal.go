@@ -1,4 +1,4 @@
-package becustomtype
+package bnrtype
 
 import (
 	"encoding/xml"
